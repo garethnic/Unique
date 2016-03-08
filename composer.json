@@ -1,5 +1,5 @@
 {
-    "name": "garethnic/Unique",
+    "name": "garethnic/unique",
     "type": "library",
     "description": "A Laravel package to make uuid fields in a database table",
     "keywords": [
@@ -8,7 +8,7 @@
         "laravel",
         "uuid"
     ],
-    "homepage": "https://github.com/garethnic/Unique",
+    "homepage": "https://github.com/garethnic/unique",
     "license": "MIT",
     "authors": [
         {
