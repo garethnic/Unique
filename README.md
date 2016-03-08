@@ -4,10 +4,10 @@ This is a Laravel package that lets you add uuid's to a selected field.
 
 ## Install
 
-Via Composer
+Add the following to your `composer.json` file:
 
 ``` bash
-$ composer require garethnic/Unique
+"garethnic/unique": "dev-master"
 ```
 
 Add the garethnic\ServiceProvider to your config/app.php providers array:
